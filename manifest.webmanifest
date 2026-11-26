@@ -1,0 +1,40 @@
+{
+  "id": "/olabi-points-staff/",
+  "name": "نقاط العلبي · الفرع",
+  "short_name": "العلبي · الفرع",
+  "description": "شاشة الفرع لتسجيل المشتريات والقسائم.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/olabi-points-staff/",
+  "scope": "/olabi-points-staff/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F3F5F2",
+  "theme_color": "#05413A",
+  "icons": [
+    {
+      "src": "/olabi-points-staff/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/olabi-points-staff/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/olabi-points-staff/icons/maskable-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/olabi-points-staff/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
